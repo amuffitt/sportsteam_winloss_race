@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/amuffitt-sportsteam_winloss_race-1a28trdc/",
+  "base_url": "/user/amuffitt-sportsteam_winloss_race-vvg9zdc1/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "buPkaTrkQ1OMObMN-hHF3Q",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/amuffitt-sportsteam_winloss_race-1a28trdc/"
+  "token": "diCubrMjST2N1ENqOEfVKg",
+  "url": "http://0.0.0.0:8888/user/amuffitt-sportsteam_winloss_race-vvg9zdc1/"
 }
