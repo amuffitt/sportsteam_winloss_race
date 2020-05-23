@@ -3,7 +3,7 @@ This project is a "program" I developed that displays comparison charts of sport
 
 There are 2 versions:
 
-1) **sports_winloss_race**: This can be accessed by anyone at https://amuffitt.github.io/sportsteam_winloss_race/sportsteam_winloss_race.html and uses the Binder service to host the notebook, convert it to an HTML page, and power the selector widgets.  This version displays the final resuts on submission, but does not show any year by year race animations due to various JupyterLab javascript restrictions.
+1) **sports_winloss_race**: This can be accessed by anyone at https://amuffitt.github.io/sportsteam_winloss_race/sportsteam_winloss_race.html and uses the Binder service to host the notebook, convert it to an HTML page that works with dynamic content, and power the selector widgets.  This version displays the final resuts on submission, but does not show any year by year race animations due to various JupyterLab javascript restrictions.
 
 2) **sports_winloss_race_animation**: This is the "full feature" program but can currently only be used by anyone that is able to open and run a Jupyter notebook (likely users familiar with Python).  It adds an option (enabled by default) to display the result race chart as a year by year animation over time (as well as an option to just display the final result like the above version).  
 
